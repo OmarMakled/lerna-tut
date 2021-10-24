@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "echo 'testing package two'"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c"
 }

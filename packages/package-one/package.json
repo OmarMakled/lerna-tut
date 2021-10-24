@@ -14,5 +14,8 @@
   "devDependencies": {
     "eslint": "^8.1.0",
     "eslint-plugin-security-node": "^1.0.14"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }

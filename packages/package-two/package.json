@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c"
+  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

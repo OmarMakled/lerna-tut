@@ -5,9 +5,14 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'testing package one'"
+    "test": "echo 'testing package one'",
+    "lint": "npx eslint --config .eslintrc *.js --fix"
   },
   "keywords": [],
   "author": "",
-  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c"
+  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-plugin-security-node": "^1.0.14"
+  }
 }

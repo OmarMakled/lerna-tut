@@ -1,3 +1,5 @@
+const msg = 'package one ............. ';
+
 module.exports = function(){
-  return 'package one ....... 3';
+  return msg;
 };

@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@omarmakled/package-one": "^1.0.2",
-    "@omarmakled/package-two": "^1.0.2"
+    "@omarmakled/package-one": "^1.0.4",
+    "@omarmakled/package-two": "^1.0.4"
   }
 }

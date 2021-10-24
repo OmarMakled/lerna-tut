@@ -1,1 +1,3 @@
-console.log('package one')
+module.exports = function(){
+  return 'package one';
+};

@@ -2,8 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "test": "npx lerna run test",
-    "lint-fix": "npx lerna run lint-fix"
+    "test": "lerna run test",
+    "lint": "lerna run lint"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",

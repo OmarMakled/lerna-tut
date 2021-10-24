@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@omarmakled/package-one": "^1.0.2",
+    "@omarmakled/package-two": "^1.0.2"
+  }
 }

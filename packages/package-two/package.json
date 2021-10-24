@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c",
+  "gitHead": "6ee07b7e4fa47f92f9537bbb28390c0a3ffb75db",
   "dependencies": {
     "jest": "^27.3.1",
     "lodash": "^4.17.21"

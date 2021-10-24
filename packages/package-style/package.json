@@ -1,0 +1,12 @@
+{
+  "name": "@omarmakled/package-style",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-plugin-security-node": "^1.0.14"
+  }
+}

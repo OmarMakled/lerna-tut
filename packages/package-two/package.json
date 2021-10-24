@@ -1,5 +1,5 @@
 {
-  "name": "@tut2/package-two",
+  "name": "@omarmakled/package-two",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "27ab413a5a30828e576e2217272544cdb350d21a"
+  "gitHead": "427f5c28a9fc2513ee0872a90b6817e67c71572c"
 }

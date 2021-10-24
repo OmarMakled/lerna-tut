@@ -1,0 +1,12 @@
+{
+  "name": "@tuts/package-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'testing package one'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

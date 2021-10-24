@@ -1,3 +1,5 @@
+const _ = require('lodash');
+
 module.exports = function(){
-  return 'package two ....... 2';
+  return _.last([1, 2, 3]);;
 };

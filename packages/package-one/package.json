@@ -5,16 +5,12 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'testing package one'",
-    "lint": "npx eslint --config .eslintrc *.js --fix"
+    "test": "jest --verbose",
+    "lint-fix": "eslint --config .eslintrc *.js --fix"
   },
   "keywords": [],
   "author": "",
   "gitHead": "6ee07b7e4fa47f92f9537bbb28390c0a3ffb75db",
-  "devDependencies": {
-    "eslint": "^8.1.0",
-    "eslint-plugin-security-node": "^1.0.14"
-  },
   "dependencies": {
     "jest": "^27.3.1",
     "lodash": "^4.17.21"
